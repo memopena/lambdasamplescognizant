@@ -1,4 +1,4 @@
-package com.cognizant.javafunctional.base;
+package com.cognizant.javafunctional.annotations;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
